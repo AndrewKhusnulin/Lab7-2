@@ -4,9 +4,9 @@ project (Sem2_Lab7)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(HEADERS ${PROJECT_SOURCE_DIR}/include/Sem2_Lab7.hpp)
+set(HEADERS ${PROJECT_SOURCE_DIR}/include/Lab7-2.hpp)
 set(HEADERS ${PROJECT_SOURCE_DIR}/include/catch.hpp)
-set(SOURCES ${PROJECT_SOURCE_DIR}/sources/Sem2_Lab7.cpp)
+set(SOURCES ${PROJECT_SOURCE_DIR}/sources/Lab7-2.cpp)
 
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
 set(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)
