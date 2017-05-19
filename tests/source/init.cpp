@@ -1,5 +1,5 @@
 
-#include <Sem2_Lab7.hpp>
+#include <Lab7-2.hpp>
 #include <catch.hpp>
 
 SCENARIO ("ConstructorTest(VectorSuits)"){
